@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1746967221 source:c:\users\alexandra\desktop\facultate\mpi\rezolutie\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<set>
+	<vector>
+	<string>
+	<unordered_set>
+
